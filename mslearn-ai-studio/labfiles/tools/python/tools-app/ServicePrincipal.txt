@@ -1,3 +1,0 @@
-setx AZURE_CLIENT_ID "xxxxxxxxxx"
-setx AZURE_CLIENT_SECRET "xxxxxxxxxxxxxxxxx"
-setx AZURE_TENANT_ID "xxxxxxxxxxxxxxxxxxxxxxxx"
