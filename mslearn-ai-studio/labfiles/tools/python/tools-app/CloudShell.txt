@@ -1,0 +1,7 @@
+az account show --query id -o tsv
+
+az role assignment create \
+  --assignee d2a1dcc3-874d-44ae-ab0b-de800c8393f5 \
+  --role "Cognitive Services OpenAI Contributor" \
+  --scope /subscriptions/<ここに貼る>
+``
